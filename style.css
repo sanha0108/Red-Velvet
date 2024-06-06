@@ -1,0 +1,525 @@
+body{background-color: #FFFBF8;}
+
+			img{
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+			}
+
+			h1{
+				font-size: 50px;
+				margin-left: 415px;
+				margin-bottom: -5px;
+			}
+
+			h2{
+				font-size: 50px;
+				margin-left: 1112px;
+				margin-top: -10px;
+			}
+
+			h3{
+				font-size: 24px;
+				text-align: center;
+				margin-bottom: -1px;
+			}
+				h3 b{
+					color: #ED4F6A;
+				}
+
+			p{
+				font-size: 14.5px;
+				text-align: center;
+				color: #595959;
+			}
+
+			h4{
+				font-size: 24px;
+				margin-left: 415px;
+			}
+
+
+
+			.프로필사진{
+				display: flex;
+				align-items: center;
+				margin: 0 auto;
+			}
+				.아이린{
+					width: 120px;
+					height: 120px;
+					background-image: url(https://i.postimg.cc/G3zcyhRc/image.png);
+					background-size: cover;
+					position: absolute;
+					left: 30%;
+					margin-left: -50px;
+				}
+
+				.슬기{
+					width: 120px;
+					height: 120px;
+					background-image: url(https://i.postimg.cc/hjy5KwFq/image.png);
+					background-size: cover;
+					position: absolute;
+					left: 40%;
+					margin-left: -50px;
+				}
+
+				.웬디{
+					width: 120px;
+					height: 120px;
+					background-image: url(https://i.postimg.cc/HWNhKf4w/image.png);
+					background-size: cover;
+					position: absolute;
+					left: 50%;
+					margin-left: -50px;
+									}
+
+				.조이{
+					width: 120px;
+					height: 120px;
+					background-image: url(https://i.postimg.cc/pLfcmyNC/image.png);
+					background-size: cover;
+					position: absolute;
+					left: 60%;
+					margin-left: -50px;
+				}
+
+				.예리{
+					width: 120px;
+					height: 120px;
+					background-image: url(https://i.postimg.cc/W4S97K1J/image.png);
+					background-size: cover;
+					position: absolute;
+					left: 70%;
+					margin-left: -50px;
+				}
+
+					#프로필사진{
+						display: block;
+					}
+
+			.프로필이름{
+				display: flex;
+				align-items: center;
+				margin: 0 auto;
+			}
+				.아이린n{
+					width: 120px;
+					background-size: cover;
+					position: absolute;
+					left: 30%;
+					margin-left: -50px;
+					text-align: center;
+					font-size: 18px;
+				}
+
+				.슬기n{
+					width: 120px;
+					background-size: cover;
+					position: absolute;
+					left: 40%;
+					margin-left: -50px;
+					text-align: center;
+					font-size: 18px;
+				}
+
+				.웬디n{
+					width: 120px;
+					background-size: cover;
+					position: absolute;
+					left: 50%;
+					margin-left: -50px;
+					text-align: center;
+					font-size: 18px;
+				}
+
+				.조이n{
+					width: 120px;
+					background-size: cover;
+					position: absolute;
+					left: 60%;
+					margin-left: -50px;
+					text-align: center;
+					font-size: 18px;
+				}
+
+				.예리n{
+					width: 120px;
+					background-size: cover;
+					position: absolute;
+					left: 70%;
+					margin-left: -50px;
+					text-align: center;
+					font-size: 18px;
+				}
+
+					#프로필이름{
+						display: block;
+					}
+
+			.프로필생년{
+				display: flex;
+				align-items: center;
+				margin: 0 auto;
+			}
+				.아이린b{
+					width: 120px;
+					background-size: cover;
+					position: absolute;
+					left: 30%;
+					margin-left: -50px;
+					text-align: center;
+					font-size: 13px;
+					margin-top: 6px;
+					color: gray;
+				}
+
+				.슬기b{
+					width: 120px;
+					background-size: cover;
+					position: absolute;
+					left: 40%;
+					margin-left: -50px;
+					text-align: center;
+					font-size: 13px;
+					margin-top: 6px;
+					color: gray;
+				}
+
+				.웬디b{
+					width: 120px;
+					background-size: cover;
+					position: absolute;
+					left: 50%;
+					margin-left: -50px;
+					text-align: center;
+					font-size: 13px;
+					margin-top: 6px;
+					color: gray;
+				}
+
+				.조이b{
+					width: 120px;
+					background-size: cover;
+					position: absolute;
+					left: 60%;
+					margin-left: -50px;
+					text-align: center;
+					font-size: 13px;
+					margin-top: 6px;
+					color: gray;
+				}
+
+				.예리b{
+					width: 120px;
+					background-size: cover;
+					position: absolute;
+					left: 70%;
+					margin-left: -50px;
+					text-align: center;
+					font-size: 13px;
+					margin-top: 6px;
+					color: gray;
+				}
+
+					#프로필생년{
+						display: block;
+					}
+
+			.검정세로{
+				display: flex;
+				align-items: center;
+				margin: 0 auto;
+			}
+				.검세1{
+					width: 2.5px;
+					height: 60px;
+					background-image: url(https://i.postimg.cc/XvZ06Hby/image.png);
+					background-size: cover;
+					position: absolute;
+					left: 33.5%;
+					margin-left: -50px;
+				}
+
+				.검세2{
+					width: 2px;
+					height: 60px;
+					background-image: url(https://i.postimg.cc/XvZ06Hby/image.png);
+					background-size: cover;
+					position: absolute;
+					left: 43.5%;
+					margin-left: -50px;
+				}
+
+				.검세3{
+					width: 2px;
+					height: 60px;
+					background-image: url(https://i.postimg.cc/XvZ06Hby/image.png);
+					background-size: cover;
+					position: absolute;
+					left: 53.5%;
+					margin-left: -50px;
+									}
+
+				.검세4{
+					width: 2px;
+					height: 60px;
+					background-image: url(https://i.postimg.cc/XvZ06Hby/image.png);
+					background-size: cover;
+					position: absolute;
+					left: 63.5%;
+					margin-left: -50px;
+				}
+
+				.검세5{
+					width: 2px;
+					height: 60px;
+					background-image: url(https://i.postimg.cc/XvZ06Hby/image.png);
+					background-size: cover;
+					position: absolute;
+					left: 73.5%;
+					margin-left: -50px;
+				}
+
+					#검정세로{
+						display: block;
+					}	
+
+			.개인인스타{
+				display: flex;
+				align-items: center;
+				margin: 0 auto;
+			}
+				.아이린i{
+					width: 40px;
+					height: 40px;
+					background-image: url(https://i.postimg.cc/sgxbn8hB/image.png);
+					background-size: cover;
+					position: absolute;
+					left: 32.40%;
+					margin-left: -50px;
+					font-size: 31px;
+					text-align: center;
+				}
+
+				.슬기i{
+					width: 40px;
+					height: 40px;
+					background-image: url(https://i.postimg.cc/sgxbn8hB/image.png);
+					background-size: cover;
+					position: absolute;
+					left: 42.40%;
+					margin-left: -50px;
+					font-size: 31px;
+					text-align: center;
+				}
+
+				.웬디i{
+					width: 40px;
+					height: 40px;
+					background-image: url(https://i.postimg.cc/sgxbn8hB/image.png);
+					background-size: cover;
+					position: absolute;
+					left: 52.40%;
+					margin-left: -50px;
+					font-size: 31px;
+					text-align: center;
+									}
+
+				.조이i{
+					width: 40px;
+					height: 40px;
+					background-image: url(https://i.postimg.cc/sgxbn8hB/image.png);
+					background-size: cover;
+					position: absolute;
+					left: 62.40%;
+					margin-left: -50px;
+					font-size: 31px;
+					text-align: center;
+				}
+
+				.예리i{
+					width: 40px;
+					height: 40px;
+					background-image: url(https://i.postimg.cc/sgxbn8hB/image.png);
+					background-size: cover;
+					position: absolute;
+					left: 72.40%;
+					margin-left: -50px;
+					font-size: 31px;
+					text-align: center;
+				}
+
+					#개인인스타{
+						display: block;
+					}	
+
+			a{
+				text-decoration: none;
+			}
+
+			h5{
+				font-size: 24px;
+				margin-left: 415px;
+			}	
+
+			.앨범{
+				display: flex;
+				align-items: center;
+				margin: 0 auto;
+			}
+				.퀸덤{
+					width: 155px;
+					height: 155px;
+					background-image: url(https://i.postimg.cc/qvnBbzn6/image.jpg);
+					background-size: cover;
+					position: absolute;
+					left: 30%;
+					margin-left: -50px;
+				}
+
+				.피날레{
+					width: 155px;
+					height: 155px;
+					background-image: url(https://i.postimg.cc/JhLr9Mc6/image.jpg);
+					background-size: cover;
+					position: absolute;
+					left: 42.7%;
+					margin-left: -50px;
+				}
+
+				.음파음파{
+					width: 155px;
+					height: 155px;
+					background-image: url(https://i.postimg.cc/9MXWQbky/image.jpg);
+					background-size: cover;
+					position: absolute;
+					left: 55%;
+					margin-left: -50px;
+									}
+
+				.짐살라빔{
+					width: 155px;
+					height: 155px;
+					background-image: url(https://i.postimg.cc/J0GMbnMn/image.jpg);
+					background-size: cover;
+					position: absolute;
+					left: 67.5%;
+					margin-left: -50px;
+				}
+
+					#앨범{
+						display: block;
+					}
+
+			.앨범이름{
+				display: flex;
+				align-items: center;
+				margin: 0 auto;
+			}
+				.퀸덤n{
+					width: 155px;
+					background-size: cover;
+					position: absolute;
+					left: 30%;
+					margin-left: -50px;
+					text-align: left;
+					font-size: 12px;
+				}
+
+				.피날레n{
+					width: 155px;
+					background-size: cover;
+					position: absolute;
+					left: 42.7%;
+					margin-left: -50px;
+					text-align: left;
+					font-size: 12px;
+				}
+
+				.음파음파n{
+					width: 155px;
+					background-size: cover;
+					position: absolute;
+					left: 55%;
+					margin-left: -50px;
+					text-align: left;
+					font-size: 12px;
+				}
+
+				.짐살라빔n{
+					width: 155px;
+					background-size: cover;
+					position: absolute;
+					left: 67.5%;
+					margin-left: -50px;
+					text-align: left;
+					font-size: 12px;
+				}
+
+					#앨범이름{
+						display: block;
+					}
+
+			.앨범발매{
+				display: flex;
+				align-items: center;
+				margin: 0 auto;
+			}
+				.퀸덤d{
+					width: 155px;
+					background-size: cover;
+					position: absolute;
+					left: 30%;
+					margin-left: -50px;
+					text-align: left;
+					font-size: 13px;
+					margin-top: 15px;
+					color: gray;
+				}
+
+				.피날레d{
+					width: 155px;
+					background-size: cover;
+					position: absolute;
+					left: 42.7%;
+					margin-left: -50px;
+					text-align: left;
+					font-size: 13px;
+					margin-top: 15px;
+					color: gray;
+				}
+
+				.음파음파d{
+					width: 155px;
+					background-size: cover;
+					position: absolute;
+					left: 55%;
+					margin-left: -50px;
+					text-align: left;
+					font-size: 13px;
+					margin-top: 15px;
+					color: gray;
+				}
+
+				.짐살라빔d{
+					width: 155px;
+					background-size: cover;
+					position: absolute;
+					left: 67.5%;
+					margin-left: -50px;
+					text-align: left;
+					font-size: 13px;
+					margin-top: 15px;
+					color: gray;
+				}
+
+					#앨범발매{
+						display: block;
+					}
+
+			.카피라이트{
+				font-size: 12px;
+				text-align: center;
+			}
